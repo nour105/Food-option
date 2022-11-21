@@ -1,4 +1,4 @@
-import Brands from "../components/brands";
+import Brands from "../components/Brands";
 function Brnds() {
     return (
         <Brands />

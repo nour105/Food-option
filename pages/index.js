@@ -1,6 +1,6 @@
 import About from '../components/About'
 import Brands from '../components/Brands'
-import ContactSection from '../components/Contact';
+import ContactSection from '../components/Contact'
 import Link from 'next/link';
 import Image from 'next/image'
 

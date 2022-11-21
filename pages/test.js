@@ -1,4 +1,4 @@
-import HamburgerMenu, { Links } from '../components/hamburger.js'
+import HamburgerMenu, { Links } from '../components/Hamburger'
 export default function Test() {
     return (
         <div className='max-w-full h-12 flex justify-start items-center bg-black mb-4 text-white rounded-md '>
