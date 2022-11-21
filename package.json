@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "html-entities": "^2.3.3",
-    "next": "13.0.3",
+    "next": "^13.0.4",
     "react": "18.2.0",
     "react-burger-menu": "^3.0.8",
     "react-countup": "^6.3.2",
